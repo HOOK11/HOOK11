@@ -7,7 +7,7 @@
 
 - Currently learning UE4
 
-- Game hacking is my hobby
+- Game "hacking" is my hobby
 
 - How to reach me - **QQ:2993218462**
 
