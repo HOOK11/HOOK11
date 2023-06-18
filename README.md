@@ -16,5 +16,5 @@
 
 
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HOOK11&repo=hide_memory)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HOOK11&repo=HOOK11/HOOK11)
 
