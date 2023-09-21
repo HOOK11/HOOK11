@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HOOK11&label=Profile%20views&color=ff4d00&style=flat" alt="HOOK11" /> </p>
 
-- Currently learning UE4
+- I'm studying game development
 
 - How to reach me - **QQ:*3593074503*
 
