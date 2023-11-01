@@ -5,7 +5,7 @@
 
 - I'm studying game development
 
-- How to reach me - **QQ:*3593074503*
+- How to reach me - QQ: *3593074503* DisCord: *.hoolli*
 
 
 
